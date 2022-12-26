@@ -3,4 +3,10 @@
 ## [Bài tập 2](https://www.jdoodle.com/embed/v0/5AyF)
 ## [Bài tập 3](https://www.jdoodle.com/embed/v0/5AyG)
 ## [Bài tập 4](https://www.jdoodle.com/embed/v0/5B2M)
-
+# Bài tập lập trình if switch
+## [Bài 1](https://www.jdoodle.com/embed/v0/5FTA)
+## [Bài 2](https://www.jdoodle.com/embed/v0/5FTC)
+## [Bài 3](https://www.jdoodle.com/embed/v0/5FTF)
+## [Bài 4](https://www.jdoodle.com/embed/v0/5FTD)
+# Kiểm tra 20/11
+## [Bài 1](https://www.jdoodle.com/embed/v0/5FTF)
