@@ -16,3 +16,4 @@
 ## [Bài 2](https://www.jdoodle.com/a/5HLt) 
 ## [Bài 3](https://www.jdoodle.com/a/5HLy)
 # Mảng
+## [Bài 1](https://www.jdoodle.com/a/5HLR)
