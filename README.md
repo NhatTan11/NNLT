@@ -11,4 +11,4 @@
 # Kiểm tra 20/11
 ## [Bài 1](https://www.jdoodle.com/embed/v0/5FTF)
 # Hàm
-## [Bài 1](jdoodle.com/a/5HKS)
+## [Bài 1](http://www.jdoodle.com/a/5HKS)
