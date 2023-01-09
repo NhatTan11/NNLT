@@ -15,4 +15,4 @@
 
 # BTLT for, while, do/while
 ## [Bài 2](https://www.jdoodle.com/a/5HLt)
-## [Bài3](htpps://www.jdoodle.com/a/5HLy)
+## [Bài 3](htpps://www.jdoodle.com/a/5HLy)
