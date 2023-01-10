@@ -18,3 +18,5 @@
 ## [Bài 3](https://www.jdoodle.com/a/5HLy)
 # Mảng
 ## [Bài 1](https://www.jdoodle.com/a/5HLR)
+# Bài Thi
+[1/10](https://www.jdoodle.com/a/5I4f)
