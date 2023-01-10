@@ -12,6 +12,7 @@
 ## [Bài 1](https://www.jdoodle.com/embed/v0/5FTF)
 # Hàm
 ## [Bài 1](http://www.jdoodle.com/a/5HKS)
+## [Bài 3](http://www.jdoodle.com/a/5I3o)
 # BTLT for, while, do/while
 ## [Bài 2](https://www.jdoodle.com/a/5HLt) 
 ## [Bài 3](https://www.jdoodle.com/a/5HLy)
